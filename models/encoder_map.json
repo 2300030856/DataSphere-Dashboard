@@ -1,0 +1,17 @@
+{
+  "product_category": [
+    "Beauty",
+    "Electronics",
+    "Fashion",
+    "Grocery",
+    "Home",
+    "Sports"
+  ],
+  "payment_method": [
+    "COD",
+    "Credit Card",
+    "Debit Card",
+    "Net Banking",
+    "UPI"
+  ]
+}

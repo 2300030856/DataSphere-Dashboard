@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies and build files
+node_modules/
+dist/
+.vite/
+
+# Generated files and temporary archives
+*.zip
+.DS_Store
+Thumbs.db
+
+# Uploaded and generated datasets
+uploads/
+cleaned/
+output/

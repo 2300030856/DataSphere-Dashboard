@@ -1,0 +1,6 @@
+user_id,age,region,listens,liked
+U001,23.0,APAC,5.0,1
+U002,35.0,EMEA,2.0,0
+U003,19.0,AMER,12.0,1
+U004,28.0,APAC,,0
+U005,,EMEA,7.0,1
